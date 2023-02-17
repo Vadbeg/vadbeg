@@ -10,6 +10,8 @@ On this Github page, you can discover links to repositories that may be of inter
 
 [Brain Tumor Segmentation](https://github.com/Vadbeg/brain-tumor-egmentation) - segmenting brain tumor from MRI images using 3D CNN
 
+[Colorization CoreML](https://github.com/Vadbeg/colorization-coreml) - simple image colorization using CoreML
+
 [Long/Short Hair Classification](https://github.com/Vadbeg/hair-classification) - long/short hair classification using raw PyTorch
 
 [Blink Classification on cropped images](https://github.com/Vadbeg/blink-classification) - small CNN trained using PyTorch Lightning
